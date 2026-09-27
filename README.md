@@ -18,7 +18,7 @@ An open-source Python-based data pipeline designed to monitor blockchain/crypto 
 ## How to Run the Script
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/AlterRein/crypto-risk-anomaly-detector
    ```
 2. Run the script:
    ```bash
